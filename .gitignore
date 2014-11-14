@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Folder containing personal consumer tokens.
+key/
